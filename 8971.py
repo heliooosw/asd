@@ -18,7 +18,7 @@ log_settings = {
 
 autonuke = False 
 
-bot_token = "MTIwNzIwMjU2NzAxMzEzODQzMg.G2OikJ.Fidt_UNwdGmFJdlrKz5bIvXydDmziQ9TuACdCg" 
+bot_token = "MTIwNjcyNDE5MTY0NzE3ODc3Mg.GsFBBN.gzGsCBWvDlu3OSuZKRaQJDifO8_EfRC6pJq18U" 
 
 
 client = commands.Bot(command_prefix=bot_prefix, intents=discord.Intents.all())
